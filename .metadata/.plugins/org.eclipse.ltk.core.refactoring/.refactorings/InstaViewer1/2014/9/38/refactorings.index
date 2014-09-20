@@ -1,0 +1,18 @@
+1410662709898	Encapsulate field 'imageURL'
+1410663487013	Delete element
+1410665960202	Extracts string 'null' into R.string.caption_default_string
+1410718594191	Rename field 'imageView1'
+1410718621903	Rename field 'textView1'
+1410718654665	Rename field 'imageView2'
+1410719220035	Encapsulate field 'profilePicURL'
+1410719225362	Encapsulate field 'location'
+1410720898108	Rename resource 'iconmonstr-favorite-4-icon-16.png'
+1410721022281	Copy file
+1410722880790	Delete element
+1410723944308	Rename field 'imageView1'
+1410744970948	Encapsulate field 'commentStr'
+1410744975372	Encapsulate field 'commenterProfilePicURL'
+1410745062111	Encapsulate field 'comment'
+1410746996520	Encapsulate field 'commenterName'
+1410920198060	Encapsulate field 'width'
+1410920203891	Encapsulate field 'time'

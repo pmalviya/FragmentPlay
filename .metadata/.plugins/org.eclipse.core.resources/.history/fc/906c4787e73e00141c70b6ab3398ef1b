@@ -1,0 +1,7 @@
+package com.example.pmalviya.actionbardemo;
+
+public class Expense {
+	public String notes;
+	public float dollarValue;
+	public String who;
+}

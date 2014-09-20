@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ToDoAppExtended/ToDoAppRepo&apos; to &apos;ToDoAppExtendedRepo&apos;" description="Rename resource &apos;ToDoAppRepo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ToDoAppRepo" name="ToDoAppExtendedRepo" stamp="1408908649746" updateReferences="true"/>
+</session>
