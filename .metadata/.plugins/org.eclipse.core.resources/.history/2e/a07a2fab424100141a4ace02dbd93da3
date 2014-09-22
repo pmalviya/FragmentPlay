@@ -1,0 +1,7 @@
+package com.example.pmalviya.customimagesearch.activities;
+
+import android.support.v4.app.DialogFragment;
+
+public class SearchFiltersDialog extends DialogFragment  {
+
+}

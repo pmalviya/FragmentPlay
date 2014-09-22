@@ -1,0 +1,5 @@
+package com.example.pmalviya.customimagesearch.models;
+
+public class SearchFilter {
+
+}

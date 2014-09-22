@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Custom Image Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_label">Search</string>
+    <string name="image_result">Image Result</string>
+    <string name="title_activity_item_image_result">ItemImageREsult</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="label_size">Image Size</string>
+    <string name="label_color">Color Filter</string>
+    <string name="label_site">Site Filter</string>
+    <string name="lavel_type">Image Type</string>
+    <string name="hint_site">"Restrict websites to selected website "</string>
+    <string name="label_save">Save</string>
+
+</resources>

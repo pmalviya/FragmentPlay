@@ -1,0 +1,41 @@
+package com.example.pmalviya.customimagesearch;
+
+public class ImageResult {
+	private String fullUrl;
+	private String tbUrl;
+	private int width;
+	private int height;
+	private String title;
+	public String getFullUrl() {
+		return fullUrl;
+	}
+	public void setFullUrl(String fullUrl) {
+		this.fullUrl = fullUrl;
+	}
+	public String getTbUrl() {
+		return tbUrl;
+	}
+	public void setTbUrl(String tbUrl) {
+		this.tbUrl = tbUrl;
+	}
+	public int getWidth() {
+		return width;
+	}
+	public void setWidth(int width) {
+		this.width = width;
+	}
+	public int getHeight() {
+		return height;
+	}
+	public void setHeight(int height) {
+		this.height = height;
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+
+	
+}

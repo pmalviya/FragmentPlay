@@ -1,0 +1,12 @@
+package com.example.pmalviya.customimagesearch.models;
+
+public class SearchFilter {
+	private String size;
+	private Integer sizeIndex;
+	private String color;
+	private Integer colorIndex;
+	private String type;
+	private Integer typeIndex;
+	private String site;
+	
+}

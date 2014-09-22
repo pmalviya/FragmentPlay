@@ -1,0 +1,5 @@
+package com.example.pmalviya.customimagesearch.listeners;
+
+public class EndlessScrollListener implements OnScrollListener{
+
+}

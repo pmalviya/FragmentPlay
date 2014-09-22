@@ -1,0 +1,9 @@
+package com.example.pmalviya.customimagesearch.adapters;
+
+import android.widget.ArrayAdapter;
+
+import com.example.pmalviya.customimagesearch.models.ImageResult;
+
+public class ImageResultsAdapter extends ArrayAdapter<ImageResult> {
+
+}
